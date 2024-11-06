@@ -1,1 +1,1 @@
-QUIZ PLATFORM Using JAVA
+Quiz Platform Using Java
