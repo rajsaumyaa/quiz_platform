@@ -26,17 +26,17 @@ This repository contains a simple Quiz Application developed in Java. It allows 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/rajsaumyaa/quiz_platform.git
    ```
 2. Open the project in your preferred IDE.
 3. Build the project to install dependencies.
 
 ### Running the Application
 
-1. Open the main class file (e.g., `Main.java`).
+1. Open the main class file (e.g., `main.java`).
 2. Run the application directly from the IDE or via the command line:
    ```bash
-   java Main
+   java main
    ```
 
 ## Usage
