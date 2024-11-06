@@ -5,4 +5,4 @@
 Multiple Choice Questions: Users can select an answer from given options.
 Score Calculation: Scores are calculated based on correct answers.
 Simple and Interactive UI: User-friendly interface for easy navigation through questions.
-End-of-Quiz Summary: Display of total score at the end of the quiz.
+End-of-Quiz Summary: Display of total score at the end of the quiz
